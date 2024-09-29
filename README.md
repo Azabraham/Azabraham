@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Azabraham
+- 👋 Hi, I’m Azarel
 - 👀 I’m interested in cybersecurity, programming, and computer science in general
-- 🌱 I’m currently learning networking and cybersecurity fundamentals
+- 🌱 I’m currently learning JavaScript/HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
       Email: Azabraham0306@outlook.com
